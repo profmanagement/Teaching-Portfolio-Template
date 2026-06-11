@@ -1,0 +1,24 @@
+# Obsidian workspace (gerätespezifisch, nicht im Repo)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian cache
+.obsidian/cache
+
+# Temporäre Dateien
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Obsidian Sync (falls genutzt)
+.obsidian/sync.json
+
+# Platzhalter-Dateien (nicht nötig im Repo)
+**/.gitkeep
+
+# Persönliche Inhalte – NICHT mit Template veröffentlichen
+# (auskommentieren, wenn du das Repo als eigenes Portfolio nutzt, nicht als Template)
+# 02_Lehrveranstaltungen/*.md
+# 03_Reflexionen/*.md
+# 04_Feedback/*.md
