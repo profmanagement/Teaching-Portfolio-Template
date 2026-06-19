@@ -2,13 +2,13 @@
 
 > **Ein persönliches Wissensmanagement-System für Hochschullehrende**
 >
-> Basierend auf: Siegel, Lohner & Arnold (2025). *Reimagining Teaching Portfolios Through Personal Knowledge Management with Digital Tools for Thought.* ZFHE, 20(3), 231–258.
+> Basierend auf: Siegel, Lohner & Arnold (2025). Reimagining Teaching Portfolios Through Personal Knowledge Management with Digital Tools for Thought. *ZFHE, 20*(3), 231–258.
 
 ---
 
 ## Was ist dieses Template?
 
-Dieses Obsidian-Vault ist ein vollständig strukturiertes **Lehrportfolio-Template** für Hochschullehrende. Es verbindet die klassische Portfolio-Idee mit modernem Personal Knowledge Management (PKM) – als lebendes Dokument, nicht als einmaliges Abgabeprodukt.
+Dieses Obsidian-Vault ist ein strukturiertes **Lehrportfolio-Template** für Hochschullehrende. Es verbindet die klassische Portfolio-Idee mit modernem Personal Knowledge Management (PKM) – als lebendes Dokument, nicht als einmaliges Abgabeprodukt.
 
 Das Template unterstützt:
 - **Reflexive Praxis** – Strukturierte Lehrreflexion nach Gibbs' Reflexionszyklus
