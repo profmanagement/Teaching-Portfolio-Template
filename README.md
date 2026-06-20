@@ -2,7 +2,13 @@
 
 > **Ein persönliches Wissensmanagement-System für Hochschullehrende**
 >
-> Basierend auf: Siegel, Lohner & Arnold (2025). Reimagining Teaching Portfolios Through Personal Knowledge Management with Digital Tools for Thought. *ZFHE, 20*(3), 231–258.
+> Basierend auf:
+> 
+> Siegel, S. T., Lohner, D. & Arnold, M. (2025). Reimagining Teaching Portfolios Through Personal Knowledge Management with Digital Tools for Thought. *Zeitschrift für Hochschulentwicklung (ZFHE), 20*(3), 231–258. https://doi.org/10.21240/zfhe/20-3/11
+>
+> sowie auf dem folgenden Workshop als Grundlage:
+> 
+> Siegel, Stefan T. (2026, Mai). *Professionalisierung der eigenen Lehrtätigkeit: Lehrkompetenz(en) erfassen, dokumentieren, evaluieren, validieren und präsentieren.* Workshop im Rahmen des CAS HSG in Hochschuldidaktik – Teaching and Learning in Higher Education an der Universität St. Gallen (HSG).
 
 ---
 
@@ -144,9 +150,20 @@ Teaching-Portfolio/
 
 Dieses Template basiert auf dem Konzept des **Teaching Portfolio als Personal Knowledge Management System**, entwickelt in:
 
-> Siegel, R., Lohner, S. & Arnold, M. (2025). Reimagining Teaching Portfolios Through Personal Knowledge Management with Digital Tools for Thought. *Zeitschrift für Hochschulentwicklung (ZFHE), 20*(3), 231–258.
+> Siegel, S. T., Lohner, D. & Arnold, M. (2025). Reimagining Teaching Portfolios Through Personal Knowledge Management with Digital Tools for Thought. *Zeitschrift für Hochschulentwicklung (ZFHE), 20*(3), 231–258. https://doi.org/10.21240/zfhe/20-3/11
 
 Das Lehrportfolio wird dabei nicht als statisches Dokument, sondern als **lebendes Denk- und Entwicklungswerkzeug** konzipiert – eingebettet in die alltägliche Lehrpraxis und getragen durch kontinuierliche Reflexion.
+
+Weitere wissenschaftliche Bezugsquellen und einschlägige Vorarbeiten:
+
+- Siegel, S. T. (2026, Mai). *Professionalisierung der eigenen Lehrtätigkeit: Lehrkompetenz(en) erfassen, dokumentieren, evaluieren, validieren und präsentieren* [Workshop]. CAS HSG in Hochschuldidaktik – Teaching and Learning in Higher Education, Universität St. Gallen (HSG).
+- Arnold, M. (2026, in press). *Digital Gardening and Personal Knowledge Management for Developing Reflective Teaching Competence: A Phenomenographic Study among University Educators* (Doing Higher Education). Springer VS. [https://link.springer.com/book/9783658521110](https://link.springer.com/book/9783658521110)
+- Siegel, S. T., Lohner, D., & Arnold, M. (2025). Reimagining teaching portfolios through personal knowledge management with digital tools for thought. *Zeitschrift für Hochschulentwicklung (ZFHE), 20*(3), 231–258. [https://doi.org/10.21240/zfhe/20-3/11](https://doi.org/10.21240/zfhe/20-3/11)
+- Siegel, S. T., & Lohner, D. (2024). Wissensmanagement von Lehrenden mit „Digital Tools for Thought“: Potenziale, Grenzen und Einsatzmöglichkeiten. *Neues Handbuch Hochschullehre, 114*, 1–20. [https://www.alexandria.unisg.ch/handle/20.500.14171/119879](https://www.alexandria.unisg.ch/handle/20.500.14171/119879)
+- Lohner, D. (2023). Digital notieren und digital schreiben. In E. Kaufholz-Soldat & S. Herfurth (Hrsg.), *Wissenschaftliches Schreiben in den MINT-Fächern: Der Schreibratgeber für alle Texte im Studium* (S. 37–49). UTB. [https://doi.org/10.36198/9783838559513](https://doi.org/10.36198/9783838559513)
+- Siegel, S. T., Krummenauer-Grasser, A., & Stahl, C. (2022). Lehrbezogenes Wissensmanagement: Herausforderungen und Potenziale am Beispiel der Manuale des Projekts LeHet. In A. Hartinger, M. Dresel, E. Matthes, U. Nett, K. Peuschel, & A. Gegenfurtner (Hrsg.), *Lehrkräfteprofessionalität im Umgang mit Heterogenität: Theoretische Konzepte, Förderansätze, empirische Befunde* (S. 387–398). Waxmann. [http://www.waxmann.com/buch4570](http://www.waxmann.com/buch4570)
+- Siegel, S. T., Krummenauer-Grasser, A., & Stahl, C. (2021). Lehrbezogenes Wissensmanagement in der Hochschullehre: Entwicklung, Beschreibung und Einsatzmöglichkeiten des Reflexionsinstruments LeWiMa. *Der pädagogische Blick, 29*(2), 129–139. [https://www.beltz.de/fachmedien/erziehungs_und_sozialwissenschaften/zeitschriften/der_paedagogische_blick.html](https://www.beltz.de/fachmedien/erziehungs_und_sozialwissenschaften/zeitschriften/der_paedagogische_blick.html)
+- Weitere Publikationen sowie Hinweise finden sich hier: [https://notelab.hypotheses.org/publikationen](https://notelab.hypotheses.org/publikationen)
 
 ---
 
@@ -167,7 +184,7 @@ Dieses Template steht unter der [Creative Commons Attribution 4.0 International 
 
 Du darfst es frei nutzen, verändern und weitergeben – auch für kommerzielle Zwecke – unter der Bedingung, dass du die Originalquelle angibst:
 
-> Siegel, R., Lohner, S. & Arnold, M. (2025). ZFHE, 20(3), 231–258.
+> Siegel, S. T., Lohner, D. & Arnold, M. (2025). *Zeitschrift für Hochschulentwicklung (ZFHE), 20*(3), 231–258. https://doi.org/10.21240/zfhe/20-3/11
 
 ---
 
