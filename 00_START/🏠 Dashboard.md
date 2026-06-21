@@ -79,4 +79,4 @@ Wichtige Verknüpfungen:
 
 ---
 
-*Erstellt nach: Siegel, Lohner & Arnold (2025). Reimagining Teaching Portfolios Through Personal Knowledge Management with Digital Tools for Thought. ZFHE, 20(3), 231–258.*
+*Erstellt nach: Siegel, Lohner & Arnold (2025). Reimagining Teaching Portfolios Through Personal Knowledge Management with Digital Tools for Thought. ZFHE, 20(3), 231–258. Sowie: Siegel, Stefan T. (2026, Mai). Professionalisierung der eigenen Lehrtätigkeit: Lehrkompetenz(en) erfassen, dokumentieren, evaluieren, validieren und präsentieren. Workshop im Rahmen des CAS HSG in Hochschuldidaktik – Teaching and Learning in Higher Education an der Universität St. Gallen (HSG).*
